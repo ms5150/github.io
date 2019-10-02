@@ -2,7 +2,7 @@ body {
   /* display: flex;
   flex-direction: column; */
   text-align: center;
-  background-image: url(_DSC1141.jpg);
+  background-image: url("_DSC1141.jpg");
   background-size: cover;
   font-family: Klee-Medium;
 
